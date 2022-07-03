@@ -1,0 +1,36 @@
+.agregarCantidad {
+    width: 40%;
+    background-color: green;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.agregarCantidad:hover {
+    border: 1px solid black;
+}
+
+.containerButton {
+    margin: 1rem auto;
+    width: 30%;
+    height: 40%;
+}
+
+.boton1 {
+    width: 15%;
+    height: 15%;
+}
+
+label {
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+.containerContador {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 30%;
+    margin: auto;
+}
