@@ -1,0 +1,20 @@
+.container {
+    width: 98%;
+    margin: auto;
+}
+
+.detalle {
+    margin: 3rem 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.detalleImagen {
+    width: 100%;
+}
+
+.detalleNombre {
+    width: 100%;
+}
+
