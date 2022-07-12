@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    margin: 30px 0px;
+    justify-content: center;
+    
+}
+
+.navbar a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}

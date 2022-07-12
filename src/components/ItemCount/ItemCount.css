@@ -5,11 +5,12 @@
     padding: 1rem;
     border-radius: 10px;
     color: white;
-    margin-top: 10px;
+    margin: 10px 0 ;
 }
 
 .agregarCantidad:hover {
     border: 1px solid black;
+    
 }
 
 .containerButton {
@@ -32,5 +33,6 @@ label {
     border: 1px solid black;
     border-radius: 5px;
     width: 30%;
-    margin: auto;
+    margin: 30px auto;
+    text-align: center;
 }
