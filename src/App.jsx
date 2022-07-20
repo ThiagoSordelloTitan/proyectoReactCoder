@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <CartProvider value="Pablo">
+        <CartProvider>
           <NavBar />
           <Routes>
             <Route path="/" element={<ItemListContainer />} />
